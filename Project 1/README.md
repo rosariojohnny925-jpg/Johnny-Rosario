@@ -12,6 +12,11 @@ A custom enclosure was also designed to secure and support the launching mechani
 
 Throughout the project, CAD models were developed, refined, and assembled to evaluate fit, functionality, and manufacturability before fabrication. Testing results were used to identify improvements and guide design modifications, resulting in a more robust and reliable final mechanism.
 
+## Final Project Poster
+
+This poster summarizes the complete development of the slingshot launching mechanism, including design requirements, CAD modeling, engineering calculations, fabrication, testing, and final results. It highlights the engineering process used to develop a functional and reliable launching system.
+
+
 ## Engineering Concepts Applied
 
 - CAD Modeling and Assembly Design
