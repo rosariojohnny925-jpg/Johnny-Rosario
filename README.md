@@ -4,9 +4,15 @@
 
 ## Overview
 
-This repository contains a collection of CAD components that I have designed and modeled throughout various mechanical engineering projects. These parts represent foundational design work used in larger assemblies, prototypes, and engineering concepts developed during coursework and personal projects.
-
+This repository contains a collection of CAD components that I along with some help from project members, have designed and modeled throughout various mechanical engineering projects. These parts represent foundational design work used in larger assemblies, prototypes, and engineering concepts developed during coursework and personal projects.
 The models are provided in STEP format to ensure compatibility across multiple CAD platforms and to support future modifications, manufacturing preparation, and assembly integration.
+
+**Basic Components** folder serves as a library of all individual parts and components that were designed and modeled during the development process. These components act as the building blocks for larger assemblies and mechanical systems.
+
+The repository is organized into project-specific folders:
+**Project 1** focuses on the design, development, and testing of a slingshot launching mechanism, including the components, assemblies, and supporting structures
+used throughout the project.
+**Project 2** focuses on the design and development of a fully mechanical vehicle, showcasing the components, subsystems, and engineering solutions created to achieve motion and functionality without electronic control systems.
 
 ## Purpose
 
