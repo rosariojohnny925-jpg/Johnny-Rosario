@@ -13,6 +13,7 @@ The project provided experience in mechanical system design, energy storage mech
 ## Project Website
 
 This website documents the development of the fully mechanical vehicle, including the design process, CAD models, testing results, and key engineering decisions made throughout the project.
+                  
 Website: [https://sites.google.com/d/1dvkLjcp1XQFv5VDiroUDIhEZbt3O1fV7/p/1xhi6j6z9pIJGWRjrblIt4buRtoQaKKhY/edit?pli=1]
 
 ## Final Project Poster
