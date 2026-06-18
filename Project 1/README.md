@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focused on the design, analysis, fabrication, and testing of a mechanical slingshot launching mechanism. The objective was to develop a reliable system capable of consistently launching a payload while maintaining structural stability and repeatable performance.
+I had to lead a team where the project focused on design, analysis, fabrication, and testing of a mechanical slingshot launching mechanism. The objective was to develop a reliable system capable of consistently launching a payload while maintaining structural stability and repeatable performance.
 
 The design process involved extensive CAD modeling, geometric calculations, and design iteration. Key design parameters such as the launch angle, component dimensions, hole locations, and overall mechanism geometry were determined through calculations and testing. A launch angle of approximately 35 degrees was selected to balance launch distance and trajectory performance while remaining within project constraints.
 
