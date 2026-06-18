@@ -1,8 +1,7 @@
 # Johnny-Rosario | Mechanical Engineering Portfolio 
 
-# Basic Components
 
-## Overview
+## Portfolio Overview
 
 This repository contains a collection of CAD components that I along with some help from project members, have designed and modeled throughout various mechanical engineering projects. These parts represent foundational design work used in larger assemblies, prototypes, and engineering concepts developed during coursework and personal projects.
 The models are provided in STEP format to ensure compatibility across multiple CAD platforms and to support future modifications, manufacturing preparation, and assembly integration.
