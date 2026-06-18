@@ -21,7 +21,7 @@ This poster summarizes the complete development of the slingshot launching mecha
 A dedicated project website was created to document the design process, engineering calculations, CAD development, testing results, and final project outcomes.
 
 Website Link:
-[Insert Website URL]
+[https://jrosarioii.wixsite.com/idpsq]
 
 
 ## Engineering Concepts Applied
